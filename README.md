@@ -43,7 +43,7 @@ O projeto foi desenhado seguindo os padrões de mercado e os princípios de uma 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/gerenciador-financas.git](https://github.com/seu-usuario/gerenciador-financas.git)
+    git clone https://github.com/devwarly/gerenciador-financas.git
     ```
 2.  **Importe na sua IDE:** Abra o IntelliJ IDEA (ou Eclipse/VS Code) e importe como um projeto Maven.
 3.  **Configuração:** Verifique se o arquivo `src/main/resources/application.properties` contém a URL da API:
